@@ -503,7 +503,7 @@ GitHub: [vishakhamaisuriya17-hub](https://github.com/vishakhamaisuriya17-hub)
 
 ## Repository
 
-[Excel-Analyzer-](https://github.com/vishakhamaisuriya17-hub/Excel-Analyzer-)
+[Excel-Analyzer-](https://github.com/vishakhamaisuriya17-hub/Excel-Analyzer-.git)
 
 ---
 
